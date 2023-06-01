@@ -14,5 +14,5 @@
 - DB : Firestore, Firebase realtime-database
 - Cloud & Hosting : Firebase
 
-## Link
+## Address
 - https://localpeople.web.app/
