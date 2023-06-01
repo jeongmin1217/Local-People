@@ -13,3 +13,6 @@
 - Front-end : React, Typescript, Redux
 - DB : Firestore, Firebase realtime-database
 - Cloud & Hosting : Firebase
+
+## Link
+- https://localpeople.web.app/
