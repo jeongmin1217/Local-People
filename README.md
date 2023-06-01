@@ -1,5 +1,5 @@
 # Local-People
-로컬들의 찐 정보 공유를 위한 위치(지역)기반 소셜 네트워크 웹 서비스
+로컬들의 찐 정보 공유를 위한 위치(지역)기반 소셜 네트워크 웹 서비스 <br/>
 <img align="center" style="width:100rem; height:auto;" src="https://github.com/jeongmin1217/Local-People/blob/main/lcpp1.PNG"/>
 
 ## Functions
