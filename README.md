@@ -1,5 +1,5 @@
 # Local-People
-A location-based social networking web service for sharing useful information among local people.
+**A location-based social networking web service for sharing useful information among local people.**
 
 <img align="center" style="width:100rem; height:auto;" src="https://github.com/jeongmin1217/Local-People/blob/main/lcpp1.PNG"/>
 
